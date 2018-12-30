@@ -7,6 +7,9 @@
 
 相关项目：
 * [dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates) (star=273, watch=273, fork=95) - `A collection of LaTeX templates used for research, courses, and miscellanea.`, (2014-09-27~2017-11-21).
+* [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers) (star=38, watch=38, fork=23) - `beamer template collection`, (2017-06-11~2018-12-23).
+* [jankapunkt/master-thesis](https://github.com/jankapunkt/master-thesis) (star=2, watch=2, fork=4) - `LaTex master thesis templates that allow quick publishing as well as custom design.`, (2014-05-17~2016-05-27).
+* [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard) (star=270, watch=270, fork=56) - `中文排版所需遵循的标准和规范`, (2013-09-15~2013-10-27).
 
 ---
 
@@ -91,6 +94,9 @@
 * 国立清华大学
   * [yszheda/nthu-master-thesis](https://github.com/yszheda/nthu-master-thesis) (star=2, watch=2, fork=0) - `LaTeX templates for NTHU master thesis`, (2014-06-12~2014-06-12).
 
+* 国立台湾科技大学
+  * [hadziq/ntust-thesis](https://github.com/hadziq/ntust-thesis) (star=11, watch=11, fork=8) - `The Graduate Thesis Template in NTUST 國立台灣科技大學的論文 LaTeX 範本`, (2015-06-13~2018-02-07).
+
 * 哈尔滨工程大学
   * [Benyjuice/hrbeuthesis](https://github.com/Benyjuice/hrbeuthesis) (star=5, watch=5, fork=6) - `哈尔滨工程大学本硕博学位论文LaTex模板`, (2015-05-12~2016-03-18).
 
@@ -125,12 +131,16 @@
   * [alwintsui/scutthesis](https://github.com/alwintsui/scutthesis) (star=73, watch=73, fork=27) - `Latex/Lyx templates for the thesis specifications of South China University of Technology (SCUT,华南理工大学)`, (2014-11-12~2018-01-06).
 
 * 华南师范大学
+  * [scnu/scnuthesis](https://github.com/scnu/scnuthesis) (star=57, watch=57, fork=19) - `符合华南师范大学硕士/博士学位论文格式要求的LaTeX模板。`, (2013-05-02~2018-03-31).
   * [wzpan/scnuthesis](https://github.com/wzpan/scnuthesis) (star=5, watch=5, fork=2) - `符合华南师范大学硕士/博士学位论文格式要求的LaTeX模板。`, (2015-01-22~2015-01-22).
 
 * 华中科技大学
   * [skinaze/HUSTPaperTemp](https://github.com/skinaze/HUSTPaperTemp) (star=54, watch=54, fork=21) - `华中科技大学本科毕业论文LaTeX模板 2017`, (2017-02-25~2018-06-06).
   * [hust-latex/hustthesis](https://github.com/hust-latex/hustthesis) (star=45, watch=45, fork=16) - `An Unofficial Thesis Template in LaTeX for Huazhong University of Science and Technology`, (2013-03-11~2017-03-17).
   * [Qinnn/LaTeX-ThesisTemplatesForHUSTer](https://github.com/Qinnn/LaTeX-ThesisTemplatesForHUSTer) (star=8, watch=8, fork=1) - `A rough LaTeX thesis template for HUSTer`, (2015-04-14~2015-04-22).
+
+* 淮北师范大学
+  * [everyx/HNUthesis](https://github.com/everyx/HNUthesis) (star=1, watch=1, fork=1) - `淮北师范大学硕士学位论文 LaTex 模板`, (2015-04-20~2015-06-02).
 
 * 吉林大学
   * [dartall/jluthesis](https://github.com/dartall/jluthesis) (star=2, watch=2, fork=4) - `Automatically exported from code.google.com/p/jluthesis`, (2016-02-29~2016-02-29).
@@ -158,11 +168,11 @@
   * [mattholy/USC-PaperMaker](https://github.com/mattholy/USC-PaperMaker) (star=1, watch=1, fork=1) - `简易的南华大学毕设论文生成`, (2017-04-21~2017-04-21).
 
 * 南京大学
-  * [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard) (star=270, watch=270, fork=56) - `中文排版所需遵循的标准和规范`, (2013-09-15~2013-10-27).
   * [Haixing-Hu/nju-thesis](https://github.com/Haixing-Hu/nju-thesis) (star=153, watch=153, fork=68) - `南京大学学位论文XeLaTeX模板`, (2013-08-23~2018-12-25).
   * [ZLCao/NJUBachelor](https://github.com/ZLCao/NJUBachelor) (star=24, watch=24, fork=18) - `南京大学本科毕业论文Latex模板`, (2016-06-05~2017-06-20).
   * [GFrankenstein/NJU-Thesis-LaTeX-Template](https://github.com/GFrankenstein/NJU-Thesis-LaTeX-Template) (star=21, watch=21, fork=10) - `A LaTeX template for Nanjing University`, (2013-02-25~2015-01-13).
   * [AnyiRao/NJUThesis2018](https://github.com/AnyiRao/NJUThesis2018) (star=3, watch=3, fork=1) - `A LATEX template of NJU Thesis 2018 Version`, (2018-06-24~2018-06-24).
+  * [njuHan/nju-thesis-template](https://github.com/njuHan/nju-thesis-template) (star=2, watch=2, fork=5) - `南大本科(硕士/博士)毕业论文LaTeX模板`, (2018-03-03~2018-03-03).
 
 * 南京航空航天大学
   * [nuaatug/nuaathesis](https://github.com/nuaatug/nuaathesis) (star=49, watch=49, fork=25) - `LaTeX document class for NUAA, supporting bachelor/master/PH.D thesis in Chinese/English/Japanese. 南航本科、硕士、博士学位论文 LaTeX 模板`, (2017-07-31~2018-12-28).
@@ -197,6 +207,9 @@
   * [ChenMeng0518/sduthesis](https://github.com/ChenMeng0518/sduthesis) (star=4, watch=4, fork=6) - `SDU Thesis Template for LaTeX`, (2013-05-12~2015-01-03).
   * [bearshng/sduthesis](https://github.com/bearshng/sduthesis) (star=2, watch=2, fork=0) - `山东大学本科毕业设计Latex模板`, (2015-03-27~2015-03-27).
 
+* 山东师范大学
+  * [SmartHelium/sdnubachelor](https://github.com/SmartHelium/sdnubachelor) (star=2, watch=2, fork=3) - `A LaTeX template for sdnu bachelor based on CTeX !`, (2018-03-28~2018-05-05).
+
 * 山西农业大学
   * [dubuqingfeng/sxau-document](https://github.com/dubuqingfeng/sxau-document) (star=0, watch=0, fork=1) - `毕业设计文档LaTeX模版`, (2016-12-12~2016-12-13).
 
@@ -212,6 +225,7 @@
 
 * 上海交通大学
   * [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) (star=912, watch=912, fork=369) - `上海交通大学 XeLaTeX 学位论文及课程论文模板`, (2012-05-25~2018-12-29).
+  * [jchnxu/ProbablyOKSJTUThesis](https://github.com/jchnxu/ProbablyOKSJTUThesis) (star=1, watch=1, fork=2) - `上海交大本科生毕业论文latex模板`, (2015-06-25~2015-06-27).
 
 * 上海科技大学
   * [sslchi/SISTThesis](https://github.com/sslchi/SISTThesis) (star=1, watch=1, fork=1) - `LaTeX template for SIST of ShanghaiTech University`, (2017-05-05~2018-05-30).
@@ -229,6 +243,7 @@
 
 * 台湾大学
   * [tzhuan/ntu-thesis](https://github.com/tzhuan/ntu-thesis) (star=131, watch=131, fork=69) - `NTU thesis template for XeLaTeX 臺灣大學碩博士論文 XeLaTeX 模版`, (2013-04-22~2018-08-11).
+  * [chujay/NTU_latex](https://github.com/chujay/NTU_latex) (star=3, watch=3, fork=1) - `The NTU-paper format with Latex`, (2017-07-27~2017-07-27).
 
 * 天津大学
   * [xnth97/TJUThesisLatexTemplate](https://github.com/xnth97/TJUThesisLatexTemplate) (star=36, watch=36, fork=9) - `LaTeX templates for TJU graduate thesis. Originally forked from code.google.com/p/tjuthesis`, (2015-09-25~2018-06-01).
@@ -497,21 +512,48 @@
 * 新南威尔士大学
   * [andrewletten/LettenPhDThesis2015](https://github.com/andrewletten/LettenPhDThesis2015) (star=2, watch=2, fork=1) - `PhD thesis 2015 (includes all LaTeX source files)`, (2017-06-10~2017-06-10).【论文源文件，非模板】
 
-* Østfold University College
+* Instituto Superior Técnico（里斯本高等理工学院）
+  * [themiguelamador/ThesisIST](https://github.com/themiguelamador/ThesisIST) (star=19, watch=19, fork=5) - `LaTeX MSc and PhD Thesis Template - Instituto Superior Técnico`, (2012-12-02~2016-11-21).
+
+* Østfold University College（东福尔郡大学）
   * [ircubic/Master-Thesis](https://github.com/ircubic/Master-Thesis) (star=2, watch=2, fork=0) - `This is the repository for my thesis for my M.Sc in Computer Science at Østfold University College`, (2011-12-14~2013-12-06).
 
 ## 通用论文模板
 
-* 国家自然科学基金
-  * [YimianDai/iNSFC](https://github.com/YimianDai/iNSFC) (star=104, watch=104, fork=57) - `An awesome LaTeX template for NSFC proposal.`, (2017-02-26~2018-03-14).
+* 通用
+  * [Submanifold/latex-mimosis](https://github.com/Submanifold/latex-mimosis) (star=601, watch=601, fork=53) - `A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis`, (2017-05-18~2018-06-21).
+  * [suchow/Dissertate](https://github.com/suchow/Dissertate) (star=330, watch=330, fork=101) - `Beautiful LaTeX dissertation templates.`, (2011-04-06~2018-08-27).
+  * [latextemplates/scientific-thesis-template](https://github.com/latextemplates/scientific-thesis-template) (star=119, watch=119, fork=57) - `LaTeX template for Master, Bachelor, Diploma, and Student Theses`, (2012-07-09~2018-11-22).
+  * [phretor/cs-phd-dissertation-latex-template](https://github.com/phretor/cs-phd-dissertation-latex-template) (star=12, watch=12, fork=4) - `Latex template based on the typographic memoir class for formatting PhD dissertations. Suitable for any areas but devised for computer science researchers.`, (2012-05-14~2012-05-14).
+  * [tdehaeze/clean-latex-template](https://github.com/tdehaeze/clean-latex-template) (star=6, watch=6, fork=3) - `A nice looking LaTeX templace for University reports and thesis`, (2017-06-21~2018-04-29).
+  * [sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template) (star=34, watch=34, fork=9) - `The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板`, (2016-10-12~2018-09-10).
 
-* 俄语
- * [AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) (star=669, watch=669, fork=300) - `LaTeX-template for russian Phd thesis`, (2012-10-29~2018-12-27).
+* 机构
+  * 国家自然科学基金
+    * [YimianDai/iNSFC](https://github.com/YimianDai/iNSFC) (star=104, watch=104, fork=57) - `An awesome LaTeX template for NSFC proposal.`, (2017-02-26~2018-03-14).
+
+* 语言
+  * 德语
+    * [Ritterbecks/Hausarbeit](https://github.com/Ritterbecks/Hausarbeit) (star=17, watch=17, fork=6) - `Staatsexamensarbeit`, (2016-07-05~2016-07-05).
+  * 俄语
+   * [AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) (star=669, watch=669, fork=300) - `LaTeX-template for russian Phd thesis`, (2012-10-29~2018-12-27).
+  * 法语
+    * [Qeole/PhD](https://github.com/Qeole/PhD) (star=4, watch=4, fork=1) - `Ph. D. thesis: manuscript and slides − LaTeX sources`, (2015-05-12~2015-10-03).
 
 ---
 
 ## 简历类型模板
-* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) (star=11288, watch=11288, fork=1402) - `Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.`, (2017-01-30~2018-12-18).
-* [billryan/resume](https://github.com/billryan/resume) (star=2020, watch=2020, fork=914) - `An elegant \LaTeX\ résumé template`, (2015-05-30~2018-09-28).
-* [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv) (star=216, watch=216, fork=97) - `Template for a simple resume or curriculum vitae (CV), in XeLaTeX.`, (2014-11-09~2018-12-15).
+  * [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) (star=11288, watch=11288, fork=1402) - `Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.`, (2017-01-30~2018-12-18).
+  * [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) (star=6171, watch=6171, fork=1687) - `:page_facing_up: Awesome CV is LaTeX template for your outstanding job application`, (2015-01-18~2018-12-27).
+  * [deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume) (star=2142, watch=2142, fork=580) - `A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student`, (2014-04-30~2018-03-22).
+  * [billryan/resume](https://github.com/billryan/resume) (star=2020, watch=2020, fork=914) - `An elegant \LaTeX\ résumé template`, (2015-05-30~2018-09-28).
+  * [dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv) (star=380, watch=380, fork=198) - `A Nice-looking CV template made into LaTeX`, (2015-12-14~2018-05-17).
+  * [sb2nov/resume](https://github.com/sb2nov/resume) (star=778, watch=778, fork=352) - `Software developer resume in Latex`, (2015-10-11~2018-09-27).
+  * [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) (star=671, watch=671, fork=337) - `The Markdown Resume`, (2014-07-09~2018-11-24).
+  * [sc932/resume](https://github.com/sc932/resume) (star=422, watch=422, fork=131) - `My CV/resume in LaTeX.`, (2011-09-19~2016-10-09).
+  * [dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv) (star=380, watch=380, fork=198) - `A Nice-looking CV template made into LaTeX`, (2015-12-14~2018-05-17).
+  * [cies/resume](https://github.com/cies/resume) (star=339, watch=339, fork=73) - `My resume as a PDF including the well commented LaTeX source and build instructions.`, (2011-02-25~2018-06-04).
+  * [bamos/cv](https://github.com/bamos/cv) (star=241, watch=241, fork=73) - `My YAML cv and resume.`, (2013-12-29~2018-12-26).
+  * [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) (star=238, watch=238, fork=59) - `A collection of cv and resume templates written in LaTex`, (2014-06-15~2018-11-27).
+  * [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv) (star=216, watch=216, fork=97) - `Template for a simple resume or curriculum vitae (CV), in XeLaTeX.`, (2014-11-09~2018-12-15).
 

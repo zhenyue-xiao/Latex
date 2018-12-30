@@ -1,0 +1,20 @@
+
+## 文件来源
+* 教育部全国普通高等学校名单(2017年6月).xls：http://www.moe.gov.cn/srcsite/A03/moe_634/201706/t20170614_306900.html
+
+## Python3依赖
+* 读写Excel文件相关库：`pandas`, `openpyxl`, `xlrd`, `xlutils`, `pyexcel`；其中pandas需要xlrd库支持
+* 爬虫：`requests`, `beautifulsoup4`
+* 中文排序：`pypinyin`获得中文的拼音
+* 翻译、Github信息等直接使用公开的API，有限制
+
+## 步骤
+```
+1. university.py # 整理国内高校名单，依赖translate.py使用百度/有道api获得学校英文名（原本用于学校名称排序，未使用）
+2. latex.py # 从latexstudio.com下载国内（zh）、国外（wg）高校模板的json数据，主要使用github数据
+3. github.py # 获得github中相关仓库api信息，REST API v3（容易出现API rate limit exceeded）
+4. 生成原始的高校markdown数据
+```
+
+## 补充
+原始数据中部分可能有问题，如学校的分类、名称抽取

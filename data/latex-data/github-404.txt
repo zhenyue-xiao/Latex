@@ -1,0 +1,11 @@
+JackWzh/nuaathesis
+jokerdawn/GDUTMaster
+qinweilun/pkuthssLyX
+svandex/tjuThesis
+CUG-Onion/CUG-Undergraduate-Thesis-Template
+dustincys/NEFUXeLaTeX
+qinweilun/pkuthssLyX
+Cloud2016/CUMTB-Master-Thesis
+friskit-china/imuthesis
+jokerdawn/GDUTMaster
+pdgessler/muthesis

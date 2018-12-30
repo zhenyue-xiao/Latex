@@ -1,6 +1,7 @@
 
-## 文件来源
+## 院校名单
 * 教育部全国普通高等学校名单(2017年6月).xls：http://www.moe.gov.cn/srcsite/A03/moe_634/201706/t20170614_306900.html
+* 国外院校查询：http://www.jsj.edu.cn/api/index/mdDesc/gwyx
 
 ## Python3依赖
 * 读写Excel文件相关库：`pandas`, `openpyxl`, `xlrd`, `xlutils`, `pyexcel`；其中pandas需要xlrd库支持

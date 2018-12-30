@@ -88,6 +88,15 @@ def get_github_info(cate='zh'):
     fw_404.close()
 
 
+def get_data(repo_name, github_api='https://api.github.com/repos/'):
+    if repo_name.startswith('/'): repo_name = repo_name[1:]
+    url = github_api + repo_name
+    response = requests.get(url)
+    code = response.status_code
+    response.encoding = 'utf-8'
+    return code, response.text
+
+
 if __name__ == '__main__':
     cate = 'zh'
     get_github_info(cate)

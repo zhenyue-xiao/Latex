@@ -2,8 +2,10 @@ import json
 import os
 import re
 from urllib.parse import urlsplit
+
 from pypinyin import lazy_pinyin
 
+from github import get_data
 
 """
 owner = github_infos['owner']['login']
@@ -17,33 +19,6 @@ stars = github_infos['stargazers_count']
 watchers:['watchers_count']
 forks:['forks_count']
 """
-
-
-def get_info(github_infos, title):
-    owner = github_infos['owner']['login']
-    repo_name = github_infos['name']
-    full_name = github_infos['full_name']
-    desp = github_infos['description']
-    if desp is None or len(desp.strip()) == 0:
-        desp = title
-    desp = desp.replace('#', ' ')
-    re.sub('\s+', ' ', desp)
-    desp = desp.strip()
-
-    url = github_infos['html_url']
-    create = github_infos['created_at']
-    create = create[:create.rfind('T')]
-    update = github_infos['pushed_at']
-    update = update[:update.rfind('T')]
-
-    stars = github_infos['stargazers_count']
-    watchers = github_infos['watchers_count']
-    forks = github_infos['forks_count']
-    info = '[%s](%s) (star=%d, watch=%d, fork=%d) - `%s`, (%s~%s).' % (
-        full_name, url, stars, watchers, forks, desp, create, update)
-
-    repo = {'star': stars, 'count': stars + forks + watchers, 'info': info}
-    return repo
 
 
 def gen_md(cate='zh'):
@@ -72,7 +47,7 @@ def gen_md(cate='zh'):
             data = json.loads(line)
             repo_name = data['full_name']
             desp = '' if repo_name not in repo_list else repo_list[repo_name]
-            repo = get_info(data, desp)
+            repo = _get_info(data, desp)
             github_repos_info[repo_name] = repo
             if 'old_full_name' in data:
                 github_repos_info[data['old_full_name']] = repo
@@ -98,6 +73,53 @@ def gen_md(cate='zh'):
             fw.write('\n')
 
 
+def _get_info(github_infos, title):
+    owner = github_infos['owner']['login']
+    repo_name = github_infos['name']
+    full_name = github_infos['full_name']
+    desp = github_infos['description']
+    if desp is None or len(desp.strip()) == 0:
+        desp = title
+    desp = desp.replace('#', ' ')
+    re.sub('\s+', ' ', desp)
+    desp = desp.strip()
+
+    url = github_infos['html_url']
+    create = github_infos['created_at']
+    create = create[:create.rfind('T')]
+    update = github_infos['pushed_at']
+    update = update[:update.rfind('T')]
+
+    stars = github_infos['stargazers_count']
+    watchers = github_infos['watchers_count']
+    forks = github_infos['forks_count']
+    info = '[%s](%s) (star=%d, watch=%d, fork=%d) - `%s`, (%s~%s).' % (
+        full_name, url, stars, watchers, forks, desp, create, update)
+
+    repo = {'star': stars, 'count': stars + forks + watchers, 'info': info}
+    return repo
+
+
+def update(fname):
+    fw = open('temp.txt', 'w', encoding='utf-8')
+    with open(fname, encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if len(line) == 0 or not line.startswith('http'): continue
+            path = urlsplit(line).path
+            code, text = get_data(path)
+            if code == 200:
+                data = json.loads(text)
+                repo = _get_info(data, '')
+                info = repo['info']
+
+                print(info)
+                fw.write("  * " + info + '\n')
+                fw.flush()
+    fw.close()
+
+
 if __name__ == '__main__':
-    for cate in ['zh', 'wg']:
-        gen_md(cate)
+    # for cate in ['zh', 'wg']:
+    #     gen_md(cate)
+    update('repos.txt')

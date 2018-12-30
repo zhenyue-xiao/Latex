@@ -5,6 +5,9 @@
 
 `中国内地高校LaTeX论文模板`和`其他地区高校LaTeX论文模板`两部分模板的初始数据来自[LaTeX科技排版工作室](http://www.latexstudio.net/)。其他一些网站也提供了丰富的模板资源，如[LaTeX Templates](https://www.latextemplates.com/)、[Overleaf](https://www.overleaf.com/)/ShareLaTex、[CTAN](http://ctan.org/)。
 
+相关项目：
+* [dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates) (star=273, watch=273, fork=95) - `A collection of LaTeX templates used for research, courses, and miscellanea.`, (2014-09-27~2017-11-21).
+
 ---
 
 ## 中国高校LaTeX论文模板
@@ -42,7 +45,7 @@
   * [wolfbrother/PhD-Thesis--LaTeX-Template-for-BUPT](https://github.com/wolfbrother/PhD-Thesis--LaTeX-Template-for-BUPT) (star=3, watch=3, fork=8) - `PhD Thesis  LaTeX Template for BUPT`, (2016-07-18~2016-07-18).
 
 * 重庆大学
-  * [nanmu42/CQUThesis](https://github.com/nanmu42/CQUThesis) (star=55, watch=55, fork=19) - `:pencil: 重庆大学毕业论文LaTeX模板---LaTeX Thesis Template for Chongqing University Version 1.30`, (2016-05-15~2018-03-16).
+  * [nanmu42/CQUThesis](https://github.com/nanmu42/CQUThesis) (star=55, watch=55, fork=19) - `重庆大学毕业论文LaTeX模板---LaTeX Thesis Template for Chongqing University Version 1.30`, (2016-05-15~2018-03-16).
 
 * 大连海事大学
   * [aurora1625/dmuthesis-latex](https://github.com/aurora1625/dmuthesis-latex) (star=3, watch=3, fork=4) - `LaTeX template for Dalian Maritime University Graduation Thesis`, (2013-03-04~2013-05-27).
@@ -67,7 +70,6 @@
 
 * 东南大学
   * [seucs/seuthesis](https://github.com/seucs/seuthesis) (star=38, watch=38, fork=9) - `LaTeX Thesis Template for Southeast University`, (2017-03-28~2018-05-17).
-  * [seucs/seuthesis](https://github.com/seucs/seuthesis) (star=38, watch=38, fork=9) - `LaTeX Thesis Template for Southeast University`, (2017-03-28~2018-05-17).
   * [zhimengfan1990/seuthesix](https://github.com/zhimengfan1990/seuthesix) (star=29, watch=29, fork=26) - `seuthesix: A LaTeX document class for typesetting thesis/dissertation of Southeast University.`, (2016-01-13~2018-12-13).
 
 * 复旦大学
@@ -81,9 +83,6 @@
   * [whitelok/GZHU_Latex_Template](https://github.com/whitelok/GZHU_Latex_Template) (star=2, watch=2, fork=1) - `Guangzhou University bachelor 's degree thesis Latex template 广州大学学士毕业论文模板`, (2014-06-09~2017-09-13).
 
 * 国防科技大学
-  * [liubenyuan/nudtpaper](https://github.com/liubenyuan/nudtpaper) (star=74, watch=74, fork=58) - `A LaTeX template for Master/PhD Thesis of NUDT`, (2013-02-23~2018-12-05).
-
-* 国防科学技术大学
   * [liubenyuan/nudtpaper](https://github.com/liubenyuan/nudtpaper) (star=74, watch=74, fork=58) - `A LaTeX template for Master/PhD Thesis of NUDT`, (2013-02-23~2018-12-05).
 
 * 国立交通大学
@@ -126,13 +125,11 @@
   * [alwintsui/scutthesis](https://github.com/alwintsui/scutthesis) (star=73, watch=73, fork=27) - `Latex/Lyx templates for the thesis specifications of South China University of Technology (SCUT,华南理工大学)`, (2014-11-12~2018-01-06).
 
 * 华南师范大学
-  * [xueruini/thuthesis](https://github.com/xueruini/thuthesis) (star=1118, watch=1118, fork=459) - `LaTeX Thesis Template for Tsinghua University`, (2011-09-12~2018-12-10).
   * [wzpan/scnuthesis](https://github.com/wzpan/scnuthesis) (star=5, watch=5, fork=2) - `符合华南师范大学硕士/博士学位论文格式要求的LaTeX模板。`, (2015-01-22~2015-01-22).
 
 * 华中科技大学
   * [skinaze/HUSTPaperTemp](https://github.com/skinaze/HUSTPaperTemp) (star=54, watch=54, fork=21) - `华中科技大学本科毕业论文LaTeX模板 2017`, (2017-02-25~2018-06-06).
-  * [hust-latex/hustthesis](https://github.com/hust-latex/hustthesis) (star=45, watch=45, fork=16) - `:notebook_with_decorative_cover: An Unofficial Thesis Template in LaTeX for Huazhong University of Science and Technology`, (2013-03-11~2017-03-17).
-  * [hust-latex/hustthesis](https://github.com/hust-latex/hustthesis) (star=45, watch=45, fork=16) - `:notebook_with_decorative_cover: An Unofficial Thesis Template in LaTeX for Huazhong University of Science and Technology`, (2013-03-11~2017-03-17).
+  * [hust-latex/hustthesis](https://github.com/hust-latex/hustthesis) (star=45, watch=45, fork=16) - `An Unofficial Thesis Template in LaTeX for Huazhong University of Science and Technology`, (2013-03-11~2017-03-17).
   * [Qinnn/LaTeX-ThesisTemplatesForHUSTer](https://github.com/Qinnn/LaTeX-ThesisTemplatesForHUSTer) (star=8, watch=8, fork=1) - `A rough LaTeX thesis template for HUSTer`, (2015-04-14~2015-04-22).
 
 * 吉林大学
@@ -215,14 +212,12 @@
 
 * 上海交通大学
   * [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) (star=912, watch=912, fork=369) - `上海交通大学 XeLaTeX 学位论文及课程论文模板`, (2012-05-25~2018-12-29).
-  * [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) (star=912, watch=912, fork=369) - `上海交通大学 XeLaTeX 学位论文及课程论文模板`, (2012-05-25~2018-12-29).
 
 * 上海科技大学
   * [sslchi/SISTThesis](https://github.com/sslchi/SISTThesis) (star=1, watch=1, fork=1) - `LaTeX template for SIST of ShanghaiTech University`, (2017-05-05~2018-05-30).
 
 * 深圳大学
-  * [liuchengxu/szuthesis](https://github.com/liuchengxu/szuthesis) (star=76, watch=76, fork=35) - `:pencil: SZU Undergraduate Thesis -- Recommender System`, (2016-03-19~2017-03-29).
-  * [liuchengxu/szuthesis](https://github.com/liuchengxu/szuthesis) (star=76, watch=76, fork=35) - `:pencil: SZU Undergraduate Thesis -- Recommender System`, (2016-03-19~2017-03-29).
+  * [liuchengxu/szuthesis](https://github.com/liuchengxu/szuthesis) (star=76, watch=76, fork=35) - `SZU Undergraduate Thesis -- Recommender System`, (2016-03-19~2017-03-29).
   * [clinyong/latex-szu](https://github.com/clinyong/latex-szu) (star=13, watch=13, fork=10) - `深圳大学毕业论文LaTeX模板`, (2015-04-06~2018-11-13).
 
 * 首都师范大学
@@ -233,7 +228,7 @@
   * [dahakawang/scu_thesis_template](https://github.com/dahakawang/scu_thesis_template) (star=14, watch=14, fork=8) - `四川大学本科毕业设计Latex模板`, (2013-02-19~2013-05-17).
 
 * 台湾大学
-  * [tzhuan/ntu-thesis](https://github.com/tzhuan/ntu-thesis) (star=131, watch=131, fork=69) - `NTU thesis template for XeLaTeX`, (2013-04-22~2018-08-11).
+  * [tzhuan/ntu-thesis](https://github.com/tzhuan/ntu-thesis) (star=131, watch=131, fork=69) - `NTU thesis template for XeLaTeX 臺灣大學碩博士論文 XeLaTeX 模版`, (2013-04-22~2018-08-11).
 
 * 天津大学
   * [xnth97/TJUThesisLatexTemplate](https://github.com/xnth97/TJUThesisLatexTemplate) (star=36, watch=36, fork=9) - `LaTeX templates for TJU graduate thesis. Originally forked from code.google.com/p/tjuthesis`, (2015-09-25~2018-06-01).
@@ -252,13 +247,14 @@
   * [xdlinux/xdba-thesis](https://github.com/xdlinux/xdba-thesis) (star=60, watch=60, fork=36) - `西电本科毕业设计论文LaTeX模板宏包`, (2011-12-31~2017-04-07).
   * [fredqi/xduthesis](https://github.com/fredqi/xduthesis) (star=56, watch=56, fork=22) - `XeLaTeX template for writing thesis aiming to apply degrees from Xidian University.`, (2013-07-27~2017-08-25).
   * [StickCui/XDUthesis-personal](https://github.com/StickCui/XDUthesis-personal) (star=24, watch=24, fork=17) - `XDUthesis 西安电子科技大学学位论文模板  Xidian University thesis template`, (2015-12-10~2016-06-03).
-  * [StickCui/XDUstyle-Beamer-Theme](https://github.com/StickCui/XDUstyle-Beamer-Theme) (star=13, watch=13, fork=7) - `西安电子科技大学 Beamer 主题`, (2016-05-30~2016-06-03).
-  * [StickCui/BeamerForXidian](https://github.com/StickCui/BeamerForXidian) (star=3, watch=3, fork=3) - `Mainly package for Xidian University‘s Beamer. Beamer theme based on Berkeley.`, (2015-06-17~2015-11-17).
+  * [StickCui/XDUstyle-Beamer-Theme](https://github.com/StickCui/XDUstyle-Beamer-Theme) (star=13, watch=13, fork=7) - `西安电子科技大学 Beamer 主题`, (2016-05-30~2016-06-03). 【演示类】
+  * [StickCui/BeamerForXidian](https://github.com/StickCui/BeamerForXidian) (star=3, watch=3, fork=3) - `Mainly package for Xidian University's Beamer. Beamer theme based on Berkeley.`, (2015-06-17~2015-11-17). 【演示类】
 
 * 西安交通大学
   * [Aetf/xjtuthesis](https://github.com/Aetf/xjtuthesis) (star=39, watch=39, fork=19) - `使用 LaTeX 排版学位论文！适用于西安交通大学学生`, (2015-05-31~2017-02-04).
-  * [Ming-Zhang-XJTU/XJTU-Thesis-Template](https://github.com/Ming-Zhang-XJTU/XJTU-Thesis-Template) (star=20, watch=20, fork=10) - `This is a LaTeX template for doctoral thesis of Xi`an Jiaotong University (XJTU). The platform is Windows + TexLive + XeLaTex.`, (2017-02-15~2017-10-05).
+  * [Ming-Zhang-XJTU/XJTU-Thesis-Template](https://github.com/Ming-Zhang-XJTU/XJTU-Thesis-Template) (star=20, watch=20, fork=10) - `This is a LaTeX template for doctoral thesis of Xi'an Jiaotong University (XJTU). The platform is Windows + TexLive + XeLaTex.`, (2017-02-15~2017-10-05).
   * [Tedxz/xjtuthesis-x](https://github.com/Tedxz/xjtuthesis-x) (star=19, watch=19, fork=17) - `西安交通大学毕业论文LaTeX模板`, (2016-05-27~2018-06-13).
+  * [DXie123/Thesis-Template-for-XJTU](https://github.com/DXie123/Thesis-Template-for-XJTU) (star=11, watch=11, fork=3) - `西安交大毕业设计模板`, (2018-06-30~2018-11-06).
 
 * 西安石油大学
   * [h2y/xsyu-latex](https://github.com/h2y/xsyu-latex) (star=2, watch=2, fork=2) - `西安石油大学本科生毕业论文 LaTeX 模版`, (2016-11-02~2018-06-15).
@@ -278,7 +274,7 @@
 * 西南交通大学
   * [Studio513/swjtuThesis](https://github.com/Studio513/swjtuThesis) (star=15, watch=15, fork=7) - `LaTeX Template of Southwest Jiaotong University Graduate Student Thesis`, (2015-11-28~2015-12-08).
   * [swjtutug/swjtuthesis](https://github.com/swjtutug/swjtuthesis) (star=6, watch=6, fork=3) - `LaTeX template for SWJTU thesis.`, (2018-03-16~2018-04-28).
-  * [swjtutug/swjtubeamer](https://github.com/swjtutug/swjtubeamer) (star=3, watch=3, fork=1) - `A Simple Demonstration of Beamer Class for Presentation of SWJTU.`, (2018-03-17~2018-03-22).
+  * [swjtutug/swjtubeamer](https://github.com/swjtutug/swjtubeamer) (star=3, watch=3, fork=1) - `A Simple Demonstration of Beamer Class for Presentation of SWJTU.`, (2018-03-17~2018-03-22). 【演示类】
 
 * 西南科技大学
   * [japinli/swust-thesis](https://github.com/japinli/swust-thesis) (star=4, watch=4, fork=2) - `The thesis template of LaTeX for Southwest University of Science and Technology.`, (2016-07-23~2018-05-09).
@@ -291,7 +287,7 @@
   * [xiamenwcy/LaTeXFileforXMUThesis](https://github.com/xiamenwcy/LaTeXFileforXMUThesis) (star=6, watch=6, fork=9) - `厦大硕士论文Latex模板`, (2016-01-23~2018-11-22).
   * [wwwxmu/-Latex-](https://github.com/wwwxmu/-Latex-) (star=4, watch=4, fork=1) - `厦门大学本科毕业论文（设计）Latex模板`, (2015-05-07~2015-05-07).
   * [faying/XMU-LaTeX-Template](https://github.com/faying/XMU-LaTeX-Template) (star=2, watch=2, fork=2) - `XMU LaTeX Template`, (2012-11-20~2012-11-23).
-  * [faying/Beamer_DMRC](https://github.com/faying/Beamer_DMRC) (star=1, watch=1, fork=0) - `Beamer Template of DMRC`, (2012-10-27~2012-10-27).
+  * [faying/Beamer_DMRC](https://github.com/faying/Beamer_DMRC) (star=1, watch=1, fork=0) - `Beamer Template of DMRC （厦门大学经济学院）`, (2012-10-27~2012-10-27). 【演示类】
 
 * 香港理工大学
   * [quxiaofeng/PolyU_thesis_template](https://github.com/quxiaofeng/PolyU_thesis_template) (star=10, watch=10, fork=8) - `香港理工大学LaTeX论文模板`, (2014-02-16~2018-09-07).
@@ -310,6 +306,7 @@
   * [ZJU-Awesome/write_with_LaTeX](https://github.com/ZJU-Awesome/write_with_LaTeX) (star=53, watch=53, fork=42) - `浙江大学研究生硕士(博士)学位论文LaTeX模板`, (2015-08-18~2017-06-01).
   * [DreaminginCodeZH/zju-csse-undergraduate-design-latex-template](https://github.com/DreaminginCodeZH/zju-csse-undergraduate-design-latex-template) (star=50, watch=50, fork=20) - `浙江大学计算机科学与技术、软件工程专业本科毕业设计 LaTeX 模板`, (2017-03-28~2017-06-04).
   * [corenel/ZJUProposal](https://github.com/corenel/ZJUProposal) (star=10, watch=10, fork=1) - `ZJU LaTeX Proposal Template for Undergraduate.`, (2017-01-05~2017-06-29).
+  * [huoyao/ZJUThesis](https://github.com/huoyao/ZJUThesis) (star=6, watch=6, fork=3) - `Master thesis template of college of Computer Science, Zhejiang University, can easily be extended to the doctoral thesis and engineering papers`, (2016-01-27~2016-03-15).
 
 * 浙江工业大学
   * [ZJUT/zjutthesis](https://github.com/ZJUT/zjutthesis) (star=10, watch=10, fork=8) - `ZJUT XeLaTeX template of graduation project`, (2013-06-26~2014-02-17).
@@ -323,8 +320,8 @@
 * 中国科学技术大学
   * [ustctug/ustcthesis](https://github.com/ustctug/ustcthesis) (star=239, watch=239, fork=85) - `LaTeX template for USTC thesis`, (2015-07-07~2018-12-02).
   * [ywgATustcbbs/ustcthesis](https://github.com/ywgATustcbbs/ustcthesis) (star=68, watch=68, fork=35) - `Moved to USTCTUG on Github中国科学技术大学学位论文通用LaTeX模板. LaTeX templates for UNDERGRADUATE and GRADUATE STUDENTS of USTC. Backup mirror at GitLab (sponsored by LUG@USTC) : https://gitlab.lug.ustc.edu.cn/ywg/ustcthesis`, (2015-03-17~2016-02-24).
-  * [ustctug/ustcbeamer](https://github.com/ustctug/ustcbeamer) (star=18, watch=18, fork=11) - `简单的演示文稿类（用于讲演）. A Simple Demonstration of Beamer Class for Presentation`, (2015-03-17~2018-10-28).
-  * [thomasWeise/ustcSlides](https://github.com/thomasWeise/ustcSlides) (star=10, watch=10, fork=6) - `My LaTeX slides packages.`, (2016-02-14~2016-12-06).
+  * [ustctug/ustcbeamer](https://github.com/ustctug/ustcbeamer) (star=18, watch=18, fork=11) - `简单的演示文稿类（用于讲演）. A Simple Demonstration of Beamer Class for Presentation`, (2015-03-17~2018-10-28). 【演示类】
+  * [thomasWeise/ustcSlides](https://github.com/thomasWeise/ustcSlides) (star=10, watch=10, fork=6) - `My LaTeX slides packages.`, (2016-02-14~2016-12-06). 【演示类】
   * [GaZ3ll3/ustcthesis](https://github.com/GaZ3ll3/ustcthesis) (star=4, watch=4, fork=1) - `template for USTC thesis`, (2014-01-21~2014-02-07).
 
 * 中国科学院大学
@@ -336,27 +333,27 @@
   * [yulijia/LaTeX_UCASthesis](https://github.com/yulijia/LaTeX_UCASthesis) (star=7, watch=7, fork=6) - `LaTeX template of graduate Thesis [University of Chinese Academy of Sciences]`, (2013-01-11~2017-11-07).
 
 * 中国矿业大学
-  * [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers) (star=38, watch=38, fork=23) - `beamer template collection`, (2017-06-11~2018-12-23).
   * [jiandong4388/CUMTB-Latex](https://github.com/jiandong4388/CUMTB-Latex) (star=4, watch=4, fork=1) - `CUMTB-Latex`, (2018-01-30~2018-05-11).
   * [gaufung/GraduationThesis](https://github.com/gaufung/GraduationThesis) (star=1, watch=1, fork=5) - `中国矿业大学毕业论文(知网可查)`, (2017-05-29~2017-05-29).
-  * [gaufung/GraduateDefenseSlide](https://github.com/gaufung/GraduateDefenseSlide) (star=0, watch=0, fork=5) - `中国矿业大学硕士毕业论文答辩Slide`, (2017-05-19~2017-05-19).
+  * [gaufung/GraduateDefenseSlide](https://github.com/gaufung/GraduateDefenseSlide) (star=0, watch=0, fork=5) - `中国矿业大学硕士毕业论文答辩Slide`, (2017-05-19~2017-05-19). 【演示类】
 
 * 中国农业大学
   * [Cdmium/CAUTemplate](https://github.com/Cdmium/CAUTemplate) (star=5, watch=5, fork=7) - `China Agricultural University Course Thesis LaTeX Template`, (2018-09-25~2018-12-24).
 
 * 中国人民大学
   * [ZebinWang/ructhesis](https://github.com/ZebinWang/ructhesis) (star=23, watch=23, fork=22) - `中国人民大学LaTeX论文模板`, (2015-10-23~2018-05-11).
-  * [andelf/ruc-beamer-template](https://github.com/andelf/ruc-beamer-template) (star=4, watch=4, fork=5) - `Latex beamer template for RUC`, (2015-03-12~2015-03-12).
+  * [andelf/ruc-beamer-template](https://github.com/andelf/ruc-beamer-template) (star=4, watch=4, fork=5) - `Latex beamer template for RUC`, (2015-03-12~2015-03-12). 【演示类】
 
-* 中国石油大学
+* 中国石油大学（华东）
   * [DotWang/UPCThesis_advanced](https://github.com/DotWang/UPCThesis_advanced) (star=2, watch=2, fork=0) - `中国石油大学(华东)本科毕业设计论文LaTeX模板----基于UPCLaTeX/UPCThesis进行改进`, (2018-10-07~2018-10-07).
 
 * 中山大学
+  * [zhibo/sysuthesis](https://github.com/zhibo/sysuthesis) (star=17, watch=17, fork=15) - `sysuthesis based on pkuthss.`, (2011-05-09~2013-04-15).
   * [guanyingc/SYSU-LaTex-Thesis](https://github.com/guanyingc/SYSU-LaTex-Thesis) (star=12, watch=12, fork=4) - ``, (2017-01-07~2017-04-03).
   * [chungkwong/sysu_thesis](https://github.com/chungkwong/sysu_thesis) (star=5, watch=5, fork=3) - `中山大学本科毕业论文非官方模版`, (2015-05-06~2018-02-23).
   * [ShevaXu/LatexThesis4SYSU](https://github.com/ShevaXu/LatexThesis4SYSU) (star=2, watch=2, fork=3) - `[OUTDATED] Latex thesis template for Sun Yat-Sen University (SYSU) students`, (2014-05-27~2014-05-27).
   * [guoyl6/thesis-dev](https://github.com/guoyl6/thesis-dev) (star=0, watch=0, fork=2) - `论文模版，来自 https://gitlab.com/sysu-gitlab/latex-group/thesis/tree/dev`, (2018-10-16~2018-10-16).
-
+  
 ---
 
 ## 其他地区高校LaTeX论文模板
@@ -393,6 +390,9 @@
 
 * 德国达姆斯塔特工业大学
   * [zemirco/tu-darmstadt-latex-thesis](https://github.com/zemirco/tu-darmstadt-latex-thesis) (star=33, watch=33, fork=17) - `LaTeX template for any thesis at the TU Darmstadt`, (2013-02-04~2013-03-03).
+
+* 德克萨斯州大学奥斯汀分校
+  * [OttoStruve/UT-thesis](https://github.com/OttoStruve/UT-thesis) (star=0, watch=0, fork=4) - `UT thesis template, so we can stop passing it around via email like animals`, (2016-03-08~2018-06-27).
 
 * 都灵大学
   * [esenes/Unito-thesis-template](https://github.com/esenes/Unito-thesis-template) (star=1, watch=1, fork=5) - `A latex template for the master thesis at the University of Torino`, (2016-11-02~2017-04-03).
@@ -454,7 +454,7 @@
   * [amunn/msu-thesis](https://github.com/amunn/msu-thesis) (star=2, watch=2, fork=1) - `Thesis Class for Michigan State University`, (2011-09-11~2017-12-20).
 
 * 慕尼黑工业大学
-  * [fwalch/tum-thesis-latex](https://github.com/fwalch/tum-thesis-latex) (star=175, watch=175, fork=105) - `:notebook_with_decorative_cover: A LaTeX template for TUM Bachelor/Master theses.`, (2014-03-26~2018-09-15).
+  * [fwalch/tum-thesis-latex](https://github.com/fwalch/tum-thesis-latex) (star=175, watch=175, fork=105) - `A LaTeX template for TUM Bachelor/Master theses.`, (2014-03-26~2018-09-15).
 
 * 南佛罗里达大学
   * [STOM-Group/USF-Beamer-Template](https://github.com/STOM-Group/USF-Beamer-Template) (star=1, watch=1, fork=3) - `LaTeX/Beamer presentation template for the University of South Florida`, (2015-08-20~2018-05-02).
@@ -469,7 +469,6 @@
   * [samuel-bohman/su-latex-phd-thesis-template](https://github.com/samuel-bohman/su-latex-phd-thesis-template) (star=2, watch=2, fork=1) - `LaTeX template for a PhD thesis at Stockholm University`, (2017-06-08~2017-06-19).
 
 * 斯坦福大学
-  * [ircubic/Master-Thesis](https://github.com/ircubic/Master-Thesis) (star=2, watch=2, fork=0) - `This is the repository for my thesis for my M.Sc in Computer Science at Østfold University College`, (2011-12-14~2013-12-06).
   * [jbau/thesis](https://github.com/jbau/thesis) (star=0, watch=0, fork=2) - `斯坦福大学论文LaTeX模板`, (2013-05-21~2013-05-21).
 
 * 斯坦陵布什大学
@@ -485,7 +484,7 @@
   * [willb/wi-thesis-template](https://github.com/willb/wi-thesis-template) (star=34, watch=34, fork=25) - `LaTeX dissertation template for the University of Wisconsin--Madison`, (2008-10-01~2016-05-17).
 
 * 维也纳工业大学
-  * [madmaxT800/thesistu](https://github.com/madmaxT800/thesistu) (star=0, watch=0, fork=1) - `a LaTeX class for scientific thesis`, (2016-09-13~2018-12-26).
+  * [madmaxT800/thesistu](https://github.com/madmaxT800/thesistu) (star=0, watch=0, fork=1) - `a LaTeX class for scientific thesis`, (2016-09-13~2018-12-26). 
 
 * 新加坡国立大学
   * [saurabhg17/SPhdThesis](https://github.com/saurabhg17/SPhdThesis) (star=13, watch=13, fork=3) - `A Latex template for writing PhD Thesis`, (2013-06-08~2014-06-20).
@@ -496,11 +495,23 @@
   * [joaomlourenco/unlthesis](https://github.com/joaomlourenco/unlthesis) (star=0, watch=0, fork=0) - `Fake repository to redirect to 'novathesis'`, (2016-12-18~2017-01-14).
 
 * 新南威尔士大学
-  * [andrewletten/LettenPhDThesis2015](https://github.com/andrewletten/LettenPhDThesis2015) (star=2, watch=2, fork=1) - `PhD thesis 2015 (includes all LaTeX source files)`, (2017-06-10~2017-06-10).
+  * [andrewletten/LettenPhDThesis2015](https://github.com/andrewletten/LettenPhDThesis2015) (star=2, watch=2, fork=1) - `PhD thesis 2015 (includes all LaTeX source files)`, (2017-06-10~2017-06-10).【论文源文件，非模板】
+
+* Østfold University College
+  * [ircubic/Master-Thesis](https://github.com/ircubic/Master-Thesis) (star=2, watch=2, fork=0) - `This is the repository for my thesis for my M.Sc in Computer Science at Østfold University College`, (2011-12-14~2013-12-06).
+
+## 通用论文模板
+
+* 国家自然科学基金
+  * [YimianDai/iNSFC](https://github.com/YimianDai/iNSFC) (star=104, watch=104, fork=57) - `An awesome LaTeX template for NSFC proposal.`, (2017-02-26~2018-03-14).
+
+* 俄语
+ * [AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) (star=669, watch=669, fork=300) - `LaTeX-template for russian Phd thesis`, (2012-10-29~2018-12-27).
 
 ---
 
 ## 简历类型模板
-
-## 其他类型模板
+* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) (star=11288, watch=11288, fork=1402) - `Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.`, (2017-01-30~2018-12-18).
+* [billryan/resume](https://github.com/billryan/resume) (star=2020, watch=2020, fork=914) - `An elegant \LaTeX\ résumé template`, (2015-05-30~2018-09-28).
+* [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv) (star=216, watch=216, fork=97) - `Template for a simple resume or curriculum vitae (CV), in XeLaTeX.`, (2014-11-09~2018-12-15).
 

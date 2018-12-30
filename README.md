@@ -1,17 +1,47 @@
 # collection-latex-templates
 
 ## 说明
-本项目主要收集Github中的TeX/LaTeX模板。
+本项目主要收集Github网站中的各类TeX/LaTeX模板，暂时以论文类型为主。
 
 `中国内地高校LaTeX论文模板`和`其他地区高校LaTeX论文模板`两部分模板的初始数据来自[LaTeX科技排版工作室](http://www.latexstudio.net/)。其他一些网站也提供了丰富的模板资源，如[LaTeX Templates](https://www.latextemplates.com/)、[Overleaf](https://www.overleaf.com/)/ShareLaTex、[CTAN](http://ctan.org/)。
 
-相关项目：
+### 相关项目
 * [dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates) (star=273, watch=273, fork=95) - `A collection of LaTeX templates used for research, courses, and miscellanea.`, (2014-09-27~2017-11-21).
 * [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers) (star=38, watch=38, fork=23) - `beamer template collection`, (2017-06-11~2018-12-23).
 * [jankapunkt/master-thesis](https://github.com/jankapunkt/master-thesis) (star=2, watch=2, fork=4) - `LaTex master thesis templates that allow quick publishing as well as custom design.`, (2014-05-17~2016-05-27).
 * [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard) (star=270, watch=270, fork=56) - `中文排版所需遵循的标准和规范`, (2013-09-15~2013-10-27).
 
+
+### 简略目录
++ [通用论文模板](#通用论文模板)
++ [中国高校LaTeX论文模板](#中国高校LaTeX论文模板)
++ [其他地区高校LaTeX论文模板](#其他地区高校LaTeX论文模板)
++ [简历类型模板](#简历类型模板)
+
 ---
+
+## 通用论文模板
+
+* 通用
+  * [Submanifold/latex-mimosis](https://github.com/Submanifold/latex-mimosis) (star=601, watch=601, fork=53) - `A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis`, (2017-05-18~2018-06-21).
+  * [suchow/Dissertate](https://github.com/suchow/Dissertate) (star=330, watch=330, fork=101) - `Beautiful LaTeX dissertation templates.`, (2011-04-06~2018-08-27).
+  * [latextemplates/scientific-thesis-template](https://github.com/latextemplates/scientific-thesis-template) (star=119, watch=119, fork=57) - `LaTeX template for Master, Bachelor, Diploma, and Student Theses`, (2012-07-09~2018-11-22).
+  * [phretor/cs-phd-dissertation-latex-template](https://github.com/phretor/cs-phd-dissertation-latex-template) (star=12, watch=12, fork=4) - `Latex template based on the typographic memoir class for formatting PhD dissertations. Suitable for any areas but devised for computer science researchers.`, (2012-05-14~2012-05-14).
+  * [tdehaeze/clean-latex-template](https://github.com/tdehaeze/clean-latex-template) (star=6, watch=6, fork=3) - `A nice looking LaTeX templace for University reports and thesis`, (2017-06-21~2018-04-29).
+  * [sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template) (star=34, watch=34, fork=9) - `The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板`, (2016-10-12~2018-09-10).
+
+* 机构
+  * 国家自然科学基金
+    * [YimianDai/iNSFC](https://github.com/YimianDai/iNSFC) (star=104, watch=104, fork=57) - `An awesome LaTeX template for NSFC proposal.`, (2017-02-26~2018-03-14).
+
+* 语言
+  * 德语
+    * [Ritterbecks/Hausarbeit](https://github.com/Ritterbecks/Hausarbeit) (star=17, watch=17, fork=6) - `Staatsexamensarbeit`, (2016-07-05~2016-07-05).
+  * 俄语
+   * [AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) (star=669, watch=669, fork=300) - `LaTeX-template for russian Phd thesis`, (2012-10-29~2018-12-27).
+  * 法语
+    * [Qeole/PhD](https://github.com/Qeole/PhD) (star=4, watch=4, fork=1) - `Ph. D. thesis: manuscript and slides − LaTeX sources`, (2015-05-12~2015-10-03).
+
 
 ## 中国高校LaTeX论文模板
 
@@ -369,7 +399,6 @@
   * [ShevaXu/LatexThesis4SYSU](https://github.com/ShevaXu/LatexThesis4SYSU) (star=2, watch=2, fork=3) - `[OUTDATED] Latex thesis template for Sun Yat-Sen University (SYSU) students`, (2014-05-27~2014-05-27).
   * [guoyl6/thesis-dev](https://github.com/guoyl6/thesis-dev) (star=0, watch=0, fork=2) - `论文模版，来自 https://gitlab.com/sysu-gitlab/latex-group/thesis/tree/dev`, (2018-10-16~2018-10-16).
   
----
 
 ## 其他地区高校LaTeX论文模板
 
@@ -517,28 +546,6 @@
 
 * Østfold University College（东福尔郡大学）
   * [ircubic/Master-Thesis](https://github.com/ircubic/Master-Thesis) (star=2, watch=2, fork=0) - `This is the repository for my thesis for my M.Sc in Computer Science at Østfold University College`, (2011-12-14~2013-12-06).
-
-## 通用论文模板
-
-* 通用
-  * [Submanifold/latex-mimosis](https://github.com/Submanifold/latex-mimosis) (star=601, watch=601, fork=53) - `A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis`, (2017-05-18~2018-06-21).
-  * [suchow/Dissertate](https://github.com/suchow/Dissertate) (star=330, watch=330, fork=101) - `Beautiful LaTeX dissertation templates.`, (2011-04-06~2018-08-27).
-  * [latextemplates/scientific-thesis-template](https://github.com/latextemplates/scientific-thesis-template) (star=119, watch=119, fork=57) - `LaTeX template for Master, Bachelor, Diploma, and Student Theses`, (2012-07-09~2018-11-22).
-  * [phretor/cs-phd-dissertation-latex-template](https://github.com/phretor/cs-phd-dissertation-latex-template) (star=12, watch=12, fork=4) - `Latex template based on the typographic memoir class for formatting PhD dissertations. Suitable for any areas but devised for computer science researchers.`, (2012-05-14~2012-05-14).
-  * [tdehaeze/clean-latex-template](https://github.com/tdehaeze/clean-latex-template) (star=6, watch=6, fork=3) - `A nice looking LaTeX templace for University reports and thesis`, (2017-06-21~2018-04-29).
-  * [sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template) (star=34, watch=34, fork=9) - `The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板`, (2016-10-12~2018-09-10).
-
-* 机构
-  * 国家自然科学基金
-    * [YimianDai/iNSFC](https://github.com/YimianDai/iNSFC) (star=104, watch=104, fork=57) - `An awesome LaTeX template for NSFC proposal.`, (2017-02-26~2018-03-14).
-
-* 语言
-  * 德语
-    * [Ritterbecks/Hausarbeit](https://github.com/Ritterbecks/Hausarbeit) (star=17, watch=17, fork=6) - `Staatsexamensarbeit`, (2016-07-05~2016-07-05).
-  * 俄语
-   * [AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) (star=669, watch=669, fork=300) - `LaTeX-template for russian Phd thesis`, (2012-10-29~2018-12-27).
-  * 法语
-    * [Qeole/PhD](https://github.com/Qeole/PhD) (star=4, watch=4, fork=1) - `Ph. D. thesis: manuscript and slides − LaTeX sources`, (2015-05-12~2015-10-03).
 
 ---
 
